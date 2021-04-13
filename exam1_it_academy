@@ -1,0 +1,37 @@
+# 1 task
+# 1 - class 'str'
+# 2 - class 'bool'
+# 3 - class 'dict'
+# 4 - class 'set'
+#5 - class 'NoneType'
+#6 - class 'NoneType'
+#7 - class 'int'
+#8 - clss 'str'
+#9 - class 'list'
+#10 - class 'str' 
+# 2 task
+#процент = 0.12, сумма вклада = 1000000, желаемая сумма 1020100
+# d = 1000000
+# a = 1
+# while d < 1020100:
+#     a = a + 1
+#     d = 0.12/12*d + d
+# print(d)
+# print(a, ' - Количество месяцев')
+# 3 task
+#3.1
+# from random import randint
+
+# lst = []
+# for i in range(20):
+#     lst.append(randint(-10, 10))
+# lst1 = ['Element', 'start', 'finish']
+# lst1.append(lst)
+# lst1.pop(2)
+# lst1.append('finish')
+# print(lst1)
+#3.2
+
+
+
+
